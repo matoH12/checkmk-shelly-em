@@ -37,7 +37,7 @@ Configure credentials and sheely name to active check
 
 Example from loaded services:
 
-![alt text](https://github.com/matoH12/checkmk-shelly-em/blob/main/img/shelly.JPG?raw=true)
+![alt text](https://github.com/matoH12/checkmk-shelly-em/raw/main/img/sheely.JPG?raw=true)
 
 Example configire services threshold
 
