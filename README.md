@@ -23,7 +23,7 @@ Scheely check_mk read data via HTTP API and implementate this value to check_mk 
 ## Installation
 
 Check_mk sheely plugin you can install from Extension packages via web management. 
-![alt text](https://github.com/matoH12/checkmk-shelly-em/blob/min/img/Snímka obrazovky 2021-08-10 o 11.16.24.png?raw=true)
+![alt text](https://github.com/matoH12/checkmk-shelly-em/blob/min/img/shelly-plugin-add.png?raw=true)
 
 
 
