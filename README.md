@@ -13,6 +13,7 @@
 - Simple to manage threshold
 - Open source code you can modify if you need
 - support only check_mk 2 or higher
+- supported device shelly 3 EM
 
 Scheely check_mk read data via HTTP API and implementate this value to check_mk monitoring system and create from this value simple graph for future analysis 
 
